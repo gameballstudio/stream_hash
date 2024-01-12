@@ -1,0 +1,51 @@
+/**
+ * @file CSS File Transfer Module of TAW Framework
+ * @author David Trinh <namtt@gbcluster.com>
+ * @version 1.0
+ */
+
+.logo {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.intro {
+    text-align: center;
+    color: brown;
+    text-transform: uppercase;
+}
+
+.table_image_choice {
+    width: 100%;
+    color: black;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.image_pick {
+    max-height: 70px;
+}
+
+.image_result {
+    max-height: 200px;
+}
+
+.image_tr {
+    text-align: center;
+}
+
+.image_td {
+    width: 25%;
+    height: 72px; 
+    border: 1px solid black;
+}
+
+.image_td:hover  {
+    background-color: gainsboro;
+}
+
+.text_value {
+    width: 100%;
+    text-align: left;
+    height: 110px;
+}
